@@ -1,6 +1,6 @@
 IN719 Advance System Administrator
 
 Files
-#sudoers
-#sshd
+sudoers
+sshd
 
